@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1705230577 source:c:\users\samira\desktop\laborator 3\pegsol\main.cpp
+	"meniustart.h"
+	"butoane.h"
+
+1705238056 c:\users\samira\desktop\laborator 3\pegsol\meniustart.h
+	"butoane.h"
+	<fstream>
+	<graphics.h>
+	<string>
+
+1705241450 c:\users\samira\desktop\laborator 3\pegsol\butoane.h
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<windows.h>
+	<cstdio>
+
